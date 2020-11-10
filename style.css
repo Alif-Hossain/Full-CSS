@@ -17,6 +17,9 @@ header{
     background-color: #0fa5d3;
     display: inline-block; 
 }
+.logo-div{
+    width: 20%;
+}
 .logo{
     width: 250px;
     height: 90px;
@@ -24,6 +27,7 @@ header{
     float: left; 
 }
 .navbar-menu{
+width: 60%;
 float: right;
 
 }
