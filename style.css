@@ -41,16 +41,16 @@ a{
     display: inline-block;
 }
 .first-a{
-    color: rgb(255, 0, 200);
+    color: white;
 }
 .second-a{
-    color: blue;
+    color: white;
 }
 .third-a{
-    color: rgb(234, 250, 9);
+    color: white;
 }
 .fourth-a{
-    color: red;
+    color: white;
 }
 .last-a{
     color:white;
